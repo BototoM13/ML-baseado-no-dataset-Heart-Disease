@@ -24,6 +24,6 @@ ALISON ANTÔNIO CARVALHO SILVA:
 GUSTAVO DA CONCEICAO SILVA: 
 MARCOS ANTÔNIO SANTOS SOUZA: Modelagem e Avaliação e discussão
 
-Link do vídeo: 
+Link do vídeo: https://youtu.be/Cz3tns-lLmk
 
 Declaração de uso de ferramentas de inteligência artificial: A IA utilizada foi o Claude versão Sonnet 5, a IA foi usada para auxiliar a compreensão dos códigos da biblioteca sklearn, ucimlrepo, matplotlib, pandas e seaborn, além da geração código de gráficos. A IA nos permitiu compreender os processos, como eliminação de valores nulos ou a aplicação do One Hot-Enconding e etc.
